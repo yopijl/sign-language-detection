@@ -1,3 +1,6 @@
+**LINK GOOGLE COLAB**
+https://colab.research.google.com/drive/14wgFT5iSMKHuluCQG_5nv54ZFDp4b49K?usp=sharing
+
 # “SISTEM DETEKSI BAHASA ISYARAT MENGGUNAKAN ALGORITMA YOLOV5 UNTUK MENDORONG KESETARAAN KOMUNIKASI PENYANDANG DISABILITAS DALAM MENDUKUNG SDGS”
 ![alt text](https://github.com/yopijl/sign-language-detection/blob/main/DIMASTI/1.png?raw=true)
 ![alt text](https://github.com/yopijl/sign-language-detection/blob/main/DIMASTI/7.png?raw=true)
