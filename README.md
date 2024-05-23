@@ -38,6 +38,4 @@ Komunikasi merupakan modal penting dalam interaksi manusia, namun tidak semua or
 ![alt text](https://github.com/yopijl/sign-language-detection/blob/main/DIMASTI/18.png?raw=true)
 
 **LINK GOOGLE COLAB**
-
-**LINK DATASET**
-
+https://colab.research.google.com/drive/14wgFT5iSMKHuluCQG_5nv54ZFDp4b49K?usp=sharing
